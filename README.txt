@@ -1,32 +1,6 @@
-Twenty by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Twenty by jaafar
 
-
-This is Twenty, my latest and greatest addition to HTML5 UP and, per its incredibly
-creative name, my 40th (woohoo)! It's built around a grid of "image tiles" that are
-set up to smoothly transition to secondary landing pages (for which a separate page
-template is provided), and includes a number of neat effects (check out the menu!),
-extra features, and all the usual stuff you'd expect. Hope you dig it!
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+这是Twenty，这是我对HTML5 UP的最新和最伟大的补充，根据它令人难以置信的创意名称！
+它是围绕着一个“图像平铺”网格构建的，这些网格被设置为平滑地过渡到二级登录页（为其
+提供了一个单独的页面模板），并包括许多整洁的效果（查看菜单！）、额外的功能和所有
+你期望的常规功能。希望你能挖到它！
